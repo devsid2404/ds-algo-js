@@ -17,4 +17,5 @@ Repository contains JavaScript based examples of various data structures and alg
 * Queue
 * Circular Queue
 * LinkedList
+* DoublyLinkedList
 
