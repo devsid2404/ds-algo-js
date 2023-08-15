@@ -24,4 +24,5 @@ Repository contains JavaScript based examples of various data structures and alg
 
 ### Math Algorithms
 * Factorial of a Number
+* Get Fibonacci Sequence of n length
 
