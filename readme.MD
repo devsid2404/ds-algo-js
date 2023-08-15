@@ -22,6 +22,6 @@ Repository contains JavaScript based examples of various data structures and alg
 
 ## Algorithms
 
-    ### Math Algorithms
-    * Factorial of a Number
+### Math Algorithms
+* Factorial of a Number
 
