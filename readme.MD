@@ -19,3 +19,9 @@ Repository contains JavaScript based examples of various data structures and alg
 * LinkedList
 * DoublyLinkedList
 
+
+## Algorithms
+
+    ### Math Algorithms
+    * Factorial of a Number
+
