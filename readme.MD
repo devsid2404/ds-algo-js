@@ -26,4 +26,5 @@ Repository contains JavaScript based examples of various data structures and alg
 * Factorial of a Number
 * Get Fibonacci Sequence of n length
 * Power of 2
+* Prime number
 
