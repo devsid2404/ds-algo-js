@@ -28,3 +28,6 @@ Repository contains JavaScript based examples of various data structures and alg
 * Power of 2
 * Prime number
 
+### Miscellaneous
+* Cartesian Product
+
