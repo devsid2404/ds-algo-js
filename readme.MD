@@ -30,4 +30,5 @@ Repository contains JavaScript based examples of various data structures and alg
 
 ### Miscellaneous
 * Cartesian Product
+* Climbing staircase
 
