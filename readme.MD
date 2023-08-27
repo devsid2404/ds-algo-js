@@ -32,3 +32,8 @@ Repository contains JavaScript based examples of various data structures and alg
 * Cartesian Product
 * Climbing staircase
 
+### Problems
+
+#### Array problems
+* Removed duplicates from an sorted array
+
