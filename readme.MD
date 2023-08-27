@@ -36,4 +36,5 @@ Repository contains JavaScript based examples of various data structures and alg
 
 #### Array problems
 * Removed duplicates from an sorted array
+* Remove Element
 
